@@ -11,12 +11,12 @@ This is a case study project using SQL Server Integration Service (SSIS) , and I
 
 
 # Project Dataset Schema Overview
-![Dataset Schema Overview](https://github.com/3amory99/Telecom-ETL-Using-SSIS/blob/main/images/dataset%20structure.png
+![Dataset Schema Overview](https://github.com/3amory99/Telecom-ETL-Using-SSIS/blob/master/images/dataset%20structure.png
 )
 
  
 # Control Flow
-![Control Flow](https://github.com/3amory99/Telecom-ETL-Using-SSIS/blob/main/images/Control%20flow.png)
+![Control Flow](https://github.com/3amory99/Telecom-ETL-Using-SSIS/blob/master/images/Control%20flow.png)
 
 
 
