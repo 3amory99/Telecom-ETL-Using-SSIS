@@ -21,13 +21,13 @@ This is a case study project using SQL Server Integration Service (SSIS) , and I
 
 
 # Data Flow
-![Data Flow ](https://github.com/3amory99/Telecom-ETL-Using-SSIS/blob/main/images/Data%20flow.png)
+![Data Flow ](https://github.com/3amory99/Telecom-ETL-Using-SSIS/blob/master/images/Data%20flow.png)
 
 
 
 # SQL Server Management Studio
 
-![SSMS ](https://github.com/3amory99/Telecom-ETL-Using-SSIS/blob/main/images/ssms.png)
+![SSMS ](https://github.com/3amory99/Telecom-ETL-Using-SSIS/blob/master/images/ssms.png)
 
 
 
